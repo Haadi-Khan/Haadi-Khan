@@ -1,6 +1,6 @@
 ## Haadi Khan
 
-Most of my programming is either random stuff I'm learning or it's for my robotics team.
+Most of my programming is random stuff I'm learning.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=haadi-khan&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="My github stats" /> 
 
@@ -21,8 +21,5 @@ Most of my programming is either random stuff I'm learning or it's for my roboti
 <img align="left" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
-### Robotics
-[<img alt="left" src="https://img.shields.io/badge/FRC-CC342D?style=for-the-badge&logo=github" />](https://github.com/frc3624)
-
 ### Email
-[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:haadikhan05@gmail.com)
+[<img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hmk68@cornell.edu)
