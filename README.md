@@ -2,13 +2,12 @@
 
 Most of my programming is random stuff I'm learning.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haadi-khan&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="My github stats" /> 
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=haadi-khan&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="My github stats" /> -->
 
 ### Languages
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008181.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 
 
