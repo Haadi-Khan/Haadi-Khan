@@ -7,13 +7,11 @@ I'm an Undergraduate at Cornell University, studying Computer Science & Physics.
 
 ### Contact Me
 [<img align="left" alt="Personal" src="https://img.shields.io/badge/Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:haadi@haadikhan.com)
-[<img align="left" alt="Cornell" src="https://img.shields.io/badge/Cornell-B31B1B?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hmk68@cornell.edu)
-<br>
+[<img alt="Cornell" src="https://img.shields.io/badge/Cornell-B31B1B?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:hmk68@cornell.edu)
 
 ### My Online Presence
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/haadi-khan/)
-[<img align="left" alt="Website" src="https://img.shields.io/badge/Website-005A9C?style=for-the-badge&logo=Safari&logoColor=white"/>](https://www.haadikhan.com)
-<br>
+[<img alt="Website" src="https://img.shields.io/badge/Website-005A9C?style=for-the-badge&logo=Safari&logoColor=white"/>](https://www.haadikhan.com)
 
 ### Languages
 <img align="left" alt="Java" src="https://img.shields.io/badge/rust-F74C01.svg?style=for-the-badge&logo=rust&logoColor=white"/>
