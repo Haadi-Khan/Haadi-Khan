@@ -29,6 +29,6 @@ I'm an Undergraduate at Cornell University, studying Computer Science & Physics.
 
 
 ### OS
-<img align="left" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/>
+<img align="left" alt="MacOS" src="https://img.shields.io/badge/mac%20os-2B2F37?style=for-the-badge&logo=macos"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
