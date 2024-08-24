@@ -1,6 +1,6 @@
 ## Haadi Khan
 
-I'm an undergraduate at Cornell University studying Computer Science & Physics. My main research interest is Quantum Computing (more specifically in quantum simulation). I'm a Student Researcher @ [Katz Lab](https://iontrap.aep.cornell.edu/research/) and the theory lead for the [Cornell Quantum Computing Association](https://github.com/Cornell-QCA).
+I'm an undergraduate at Cornell University studying Computer Science & Physics. My main research interest is Quantum Computing (more specifically in quantum simulation). I'm a Student Researcher @ [Katz Lab](https://iontrap.aep.cornell.edu/research/) and the theory lead for the [Cornell Quantum Computing Association](https://cornellqca.com).
 
 <!-- one day.... -->
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=haadi-khan&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="My github stats" /> -->
